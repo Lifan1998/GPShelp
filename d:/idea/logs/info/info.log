@@ -1,0 +1,2 @@
+2019-07-31 20:19:20.483 [Thread-2] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-07-31 20:19:20.777 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
