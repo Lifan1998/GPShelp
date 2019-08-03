@@ -45,7 +45,7 @@ public class MybatisGenerator {
      */
     private static Properties getProperties() {
         Properties properties = new Properties();
-        properties.setProperty("url", "jdbc:mysql://localhost:3306/gpshelp?serverTimezone=UTC");
+        properties.setProperty("url", "jdbc:mysql://localhost:3307/gpshelp?serverTimezone=UTC");
         properties.setProperty("userId", "root");
         properties.setProperty("password", "202160936");
         // 包名

@@ -1,2 +1,44 @@
-2019-07-31 20:19:20.483 [Thread-2] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
-2019-07-31 20:19:20.777 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2019-08-04 02:31:56.793 [main] INFO  com.example.study.DemoApplication - Starting DemoApplication on AppledeMBP-2 with PID 51753 (/Users/apple/code/gpshelp/GPSHelp-Server/target/classes started by apple in /Users/apple/code/gpshelp/GPSHelp-Server)
+2019-08-04 02:31:56.810 [main] INFO  com.example.study.DemoApplication - No active profile set, falling back to default profiles: default
+2019-08-04 02:31:57.843 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-08-04 02:31:57.847 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-04 02:31:57.908 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 23ms. Found 0 repository interfaces.
+2019-08-04 02:31:58.293 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$1030bb7e] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-04 02:31:58.746 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+2019-08-04 02:31:58.762 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+2019-08-04 02:31:58.773 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-08-04 02:31:58.773 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/9.0.13
+2019-08-04 02:31:58.782 [main] INFO  org.apache.catalina.core.AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/apple/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2019-08-04 02:31:58.882 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-08-04 02:31:58.882 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1963 ms
+2019-08-04 02:31:59.551 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2019-08-04 02:31:59.931 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-04 02:32:00.121 [main] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page template: index
+2019-08-04 02:32:00.455 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+2019-08-04 02:32:00.482 [main] INFO  org.apache.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2019-08-04 02:32:00.501 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+2019-08-04 02:32:00.506 [main] INFO  com.example.study.DemoApplication - Started DemoApplication in 4.345 seconds (JVM running for 6.051)
+2019-08-04 02:33:57.671 [Thread-2] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-08-04 02:33:57.676 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2019-08-04 03:29:32.062 [main] INFO  com.example.study.DemoApplication - Starting DemoApplication on AppledeMBP-2 with PID 53065 (/Users/apple/code/gpshelp/GPSHelp-Server/target/classes started by apple in /Users/apple/code/gpshelp/GPSHelp-Server)
+2019-08-04 03:29:32.066 [main] INFO  com.example.study.DemoApplication - No active profile set, falling back to default profiles: default
+2019-08-04 03:29:33.070 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-08-04 03:29:33.074 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-04 03:29:33.116 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 10ms. Found 0 repository interfaces.
+2019-08-04 03:29:33.423 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$37cc5894] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-04 03:29:33.777 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+2019-08-04 03:29:33.794 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+2019-08-04 03:29:33.808 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-08-04 03:29:33.808 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/9.0.13
+2019-08-04 03:29:33.818 [main] INFO  org.apache.catalina.core.AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/apple/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2019-08-04 03:29:33.925 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-08-04 03:29:33.925 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1772 ms
+2019-08-04 03:29:34.578 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2019-08-04 03:29:34.890 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-04 03:29:35.035 [main] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page template: index
+2019-08-04 03:29:35.376 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+2019-08-04 03:29:35.399 [main] INFO  org.apache.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2019-08-04 03:29:35.413 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+2019-08-04 03:29:35.418 [main] INFO  com.example.study.DemoApplication - Started DemoApplication in 3.972 seconds (JVM running for 5.051)
+2019-08-04 03:29:39.420 [Thread-2] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-08-04 03:29:39.425 [Thread-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
